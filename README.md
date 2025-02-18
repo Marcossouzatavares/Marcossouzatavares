@@ -22,9 +22,9 @@
   </a>
 </div>
 
-<h1 align="center">
-    Tecnologias que eu mais uso:
-  </h1>
+<h2 align="center">
+    Tecnologias que eu mais uso
+  </h2>
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,6 +35,10 @@
   <img align="center" alt="angular" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
   
 </div><br>
+<h2 align="center">
+  Minhas outras redes
+
+  </h2>
 
 <div align="center">
   <a href="https://www.instagram.com/@marcosst_20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

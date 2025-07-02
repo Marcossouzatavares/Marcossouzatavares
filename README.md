@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Fullstack e amo muito meu trabalho. 
+    Sou Desenvolvedor Fullstack em constante evolução. 
   </p>
   
   <p align="center">

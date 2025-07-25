@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Fullstack em constante evolução. 
+    Sou Desenvolvedor Front-end em constante evolução. 
   </p>
   
   <p align="center">

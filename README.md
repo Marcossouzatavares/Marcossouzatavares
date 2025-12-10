@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front-end em constante evolução. 
+    Sou Desenvolvedor Front-end e sou fromado em Análise e Desenvolvimento de Sistemas. 
   </p>
   
   <p align="center">
